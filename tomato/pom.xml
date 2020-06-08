@@ -8,11 +8,11 @@
         <version>2.3.0.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>kr.co.commin.spring_web</groupId>
-    <artifactId>portfolio</artifactId>
+    <groupId>co.kr.commin</groupId>
+    <artifactId>toamato</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>portfolio</name>
-    <description>My PortFolio Web Site Project</description>
+    <name>toamato</name>
+    <description>Manage Web Site for My portfolio by spring framework</description>
 
     <properties>
         <java.version>1.8</java.version>

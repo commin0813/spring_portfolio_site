@@ -1,10 +1,10 @@
-package kr.co.commin.spring_web.portfolio;
+package co.kr.commin.toamato;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PortfolioApplicationTests {
+class ToamatoApplicationTests {
 
 	@Test
 	void contextLoads() {
