@@ -1,13 +1,13 @@
-package co.kr.commin.toamato;
+package co.kr.commin.tomato;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ToamatoApplication {
+public class TomatoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ToamatoApplication.class, args);
+		SpringApplication.run(TomatoApplication.class, args);
 	}
 
 }

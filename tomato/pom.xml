@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>co.kr.commin</groupId>
-    <artifactId>toamato</artifactId>
+    <artifactId>tomato</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>toamato</name>
+    <name>tomato</name>
     <description>Manage Web Site for My portfolio by spring framework</description>
 
     <properties>
@@ -22,6 +22,7 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-data-jpa</artifactId>
+            <version>2.3.0.RELEASE</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -59,6 +60,16 @@
             <groupId>org.springframework.restdocs</groupId>
             <artifactId>spring-restdocs-mockmvc</artifactId>
             <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>8.0.20</version>
+        </dependency>
+        <dependency>
+            <groupId>name.remal.tools.test</groupId>
+            <artifactId>junit4</artifactId>
+            <version>1.26.147</version>
         </dependency>
     </dependencies>
 

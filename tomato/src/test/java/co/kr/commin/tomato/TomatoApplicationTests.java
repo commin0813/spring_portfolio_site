@@ -1,10 +1,10 @@
-package co.kr.commin.toamato;
+package co.kr.commin.tomato;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ToamatoApplicationTests {
+public class TomatoApplicationTests {
 
 	@Test
 	void contextLoads() {
